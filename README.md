@@ -1,14 +1,15 @@
 # LITA-CAPSTONE-DATA-PROJECT BY OLUWATOBI GRACE BELLOS
 ## This is my first independent project from the LITA Data Analysis training
 
+## [Project Title](#project-title)
+## [Project Overview](#project-overview)
+#### [Data Sources](#data-sources)
+#### [Tools Used](#tools-used)
+#### [Data Cleaning](#data-cleaning)
+#### [Data Analysis](#data-analysis)
+#### [Data Visualization](#data-visualization)
 
-## [Project Overview](project-overview)
-#### [Data Sources](data-sources)
-#### [Tools Used](tools-used)
-#### [Data Cleaning](data-cleaning)
-#### [Data Analysis](data-analysis)
-#### [Data Visualization](data-visualization)
-
+## Project Title: Capstone Data Analysis
 
 ## Project Overview
 ---
