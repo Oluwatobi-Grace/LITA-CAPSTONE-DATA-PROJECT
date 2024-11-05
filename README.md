@@ -1,4 +1,4 @@
-# LITA-CAPSTONE-DATA-PROJECT BY OLUWATOBI GRACE BELLOS
+# LITA-DATA ANALYSIS-PROJECT BY OLUWATOBI GRACE BELLOS, NOVEMBER, 2024
 ## This is my first independent project from the LITA Data Analysis training
 
 [Project Title](#project-title)
