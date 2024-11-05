@@ -1,10 +1,18 @@
 # LITA-CAPSTONE-DATA-PROJECT
 ## This is my first independent project from the LITA Data Analysis training
-## Project Overview 1
-This is the data for Nationwide Sales that shows products, quantities, prices and revenue across four regions
+## Project Overview
+---
+This project includes two sets of data which are:
+- Sales Data: This is the data for Nationwide Sales that shows products, quantities, prices and revenue across four regions.
+- Customer Data: This shows the subscription trend of customers, cancellation status, duration of subscription and other relevant information.
+
+
 ## Data Sources
-The primary source of data is the excel spreadsheet sent to our Canvass Learning Management System for this Project
+---
+The primary source of data is the excel spreadsheets sent to our Canvass Learning Management System for this Project
+
 ## Tools Used
+---
 - Microsoft Excel
   1. Data Cleaning
   2. Data Analysis
@@ -13,7 +21,6 @@ The primary source of data is the excel spreadsheet sent to our Canvass Learning
 - SQL- Structured Query Language
   1. Data Cleaning
   2. Data Analysis
-  3. Data Visualization
      
 - Microsoft PowerBI
   1. Data Cleaning
@@ -22,10 +29,16 @@ The primary source of data is the excel spreadsheet sent to our Canvass Learning
 
 - GitHub for Portfolio Building
 
-## Data Analysis
-This is where I included some basic lines of codes, queries and DAX used during my analysis
 
-```SQL
+## Data Cleaning
+---
+This is where I removed blank columns, added some more relevant columns based on some conditions peculiar to each data set for a more effetive data analysis 
+
+## Data Analysis
+---
+This is where I included some basic lines of codes, conditional formatting, queries and DAX used during my analysis
+#### My SQL codes are as follows:
+```
 create database MY_LITA_PROJECT
 select *from sales_data_for_project
 select *from customer_data_for_project
@@ -122,3 +135,19 @@ select count(canceled) as Active_Subscribers from [dbo].[Customer_data_for_proje
 ------total number of cancelled subscriptions------
 select count(canceled) as Canceled_Subscribers from [dbo].[Customer_data_for_project] where Canceled = 'true'
 ```
+## Data Visualization
+With the use of Microsoft Excel and PowerBI, I was able summarize the two data sets into the visualizations below
+### Microsoft Excel
+#### Sales Data
+![SALES DATA EXCEL](https://github.com/user-attachments/assets/49e274a8-8f1d-40c1-9d1d-47210dc129da)
+#### Customer Data
+![CUSTOMER DATA EXCEL](https://github.com/user-attachments/assets/6aca2dbb-d96c-44b8-b617-f0922dac5ee8)
+
+### Microsoft PowerBI
+#### Sales Data
+![SALES DATA POWERBI](https://github.com/user-attachments/assets/a5be47e2-2f18-4d20-91d9-2c315f8eb691)
+#### Customer Data
+![CUSTOMER DATA POWERBI](https://github.com/user-attachments/assets/0f70d478-74be-4da7-a4af-4ff20259cd95)
+
+
+# Thank you
