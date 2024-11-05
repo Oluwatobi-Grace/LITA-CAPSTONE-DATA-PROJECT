@@ -2,7 +2,7 @@
 ## This is my first independent project from the LITA Data Analysis training
 
 
-#### [Project Overview](project-overview)
+## [Project Overview](project-overview)
 #### [Data Sources](data-sources)
 #### [Tools Used](tools-used)
 #### [Data Cleaning](data-cleaning)
