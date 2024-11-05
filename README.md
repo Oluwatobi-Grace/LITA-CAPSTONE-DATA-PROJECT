@@ -49,11 +49,19 @@ The primary source of data is the excel spreadsheets sent to our Canvass Learnin
 
 ## Data Cleaning
 ---
-This is where I removed blank columns, added some more relevant columns based on some conditions peculiar to each data set for a more effetive data analysis 
+Here I did the following:
+1. Removed blank columns
+2. Included missing columns
+3. Conditional formatting
+#### All for a more effetive data analysis 
 
 ## Data Analysis
 ---
-This is where I included some basic lines of codes, conditional formatting, queries and DAX used during my analysis
+Here:
+1. I included some basic lines of codes
+2.  Wrote queries and codes
+3.  Included DAX
+   
 #### My SQL codes are as follows:
 ```
 create database MY_LITA_PROJECT
