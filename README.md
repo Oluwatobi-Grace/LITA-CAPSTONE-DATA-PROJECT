@@ -1,7 +1,15 @@
-# LITA-CAPSTONE-DATA-PROJECT
-[Project Overview](project-overview)
-
+# LITA-CAPSTONE-DATA-PROJECT BY OLUWATOBI GRACE BELLOS
 ## This is my first independent project from the LITA Data Analysis training
+
+
+#### [Project Overview](project-overview)
+#### [Data Sources](data-sources)
+#### [Tools Used](tools-used)
+#### [Data Cleaning](data-cleaning)
+#### [Data Analysis](data-analysis)
+#### [Data Visualization](data-visualization)
+
+
 ## Project Overview
 ---
 This project includes two sets of data which are:
@@ -152,4 +160,4 @@ With the use of Microsoft Excel and PowerBI, I was able summarize the two data s
 ![CUSTOMER DATA POWERBI](https://github.com/user-attachments/assets/0f70d478-74be-4da7-a4af-4ff20259cd95)
 
 
-# Thank you
+## Thank you
